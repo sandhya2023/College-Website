@@ -1,0 +1,39 @@
+nav div{
+    border: 2px solid black;
+    padding: 4px;
+    margin: 4px;
+    background-color: rgb(175, 239, 217);
+}
+nav div a{
+    padding: 25px 25px 25px 0px;
+    color: #fff;
+    text-decoration: none;
+    font-size:25px;
+}
+nav div a:hover{
+    color: red;
+}
+nav div i{
+    padding: 0px 0px 0px 25px;
+    color: #fff;
+    text-decoration: none;
+    font-size:25px;
+}
+body{
+    border:2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+header div img{
+    float: left;
+}
+header div address{
+    float: right;
+}
+nav div{
+    float:clear;
+}
+nav button{
+    background-color: chocolate;
+    color: #fff;
+}
